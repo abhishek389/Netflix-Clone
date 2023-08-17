@@ -8,7 +8,7 @@ Installation
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/netflix-clone-frontend.git
+git clone https://github.com/abhishek389/Netflix-Clone.git
 Navigate to the project directory.
 
 Open index.html in your preferred web browser.
